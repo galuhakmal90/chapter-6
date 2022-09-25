@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px
+}
+.input-form{
+    border: 1px solid black;
+    padding: 30px;
+    width: 80%;
+    border-radius: 10px;
+}
+.form_login{
+    border: 1px solid black;
+    padding: 30px;
+    width: 50%;
+    border-radius: 10px;
+}
